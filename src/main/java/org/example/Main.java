@@ -2,7 +2,7 @@
 package org.example;
 
 public class Main {
-    // за потреби можна замінити насупні два рядочки на відповідники з іншої мови
+    // за потреби можна замінити наступні два рядочки на відповідники з іншої мови
     private static final StringBuffer TEXT = new StringBuffer("Programming is fun and interesting");
     private static final char[] VOWELS = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
 
